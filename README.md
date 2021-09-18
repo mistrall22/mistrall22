@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mistrall22
-- 👀 I’m interested in autopilot (AP)
-- 🌱 I’m currently learning all i can on AP
-- 💞️ I’m looking to collaborate on whatever I may for AP but I consider i really need to experience and learn first
+- 👀 I’m interested in openpilot (OP)
+- 🌱 I’m currently learning all i can on OP
+- 💞️ I’m looking to collaborate on whatever I may for OP but I consider i really need to experience and learn first
 - 📫 How to reach me: email will come soon.
 
 <!---
